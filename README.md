@@ -13,6 +13,8 @@ Welcome to my portfolio website! This project showcases my skills, experience, a
 
 ## Getting Started
 
+To start exploring my portfolio website, simply visit https://srisitharth.com
+
 To get started with my portfolio website:
 
     Clone this repository to your local machine.
